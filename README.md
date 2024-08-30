@@ -13,3 +13,5 @@ Here are some ideas to get you started: -->
 - 📫 You can reach me at abhiveerhome@gmail.com.
 - 😄 Pronouns: Abhiveer.
 - ⚡ Fun fact: As an 11th grader, I struggle to explain the tech I work on to my mom.
+- 💡 Previous Work: https://medium.com/@abhiveerhome
+- 🏄‍♂️ Social: https://www.linkedin.com/in/abhiveerhome/
