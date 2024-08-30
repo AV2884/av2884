@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on KZG Polynomial Commitment and Verification using Power Of Tau
-- 🌱 I’m currently C++ and Rust
-- 👯 I’m looking to collaborate on zero-knowledge proofs and with CUDA framework to build zkp proofs
-- 🤔 I’m looking for help with zkSnarks
-- 💬 Ask me about zkps and blockchain
-- 📫 How to reach me: abhiveerhome@gmail.com
-- 😄 Pronouns: Abhiveer
-- ⚡ Fun fact: as a 11th grader, can;t expain the tech i work to my mom
+- 🔭 I'm currently focused on working with KZG Polynomial Commitment and Verification using the Power Of Tau.
+- 🌱 I'm learning C++ and Rust.
+- 👯 I'm eager to collaborate on zero-knowledge proofs and explore using the CUDA framework to build ZKP proofs.
+- 🤔 I'm seeking assistance with zkSnarks.
+- 💬 Feel free to ask me about ZKPs and blockchain.
+- 📫 You can reach me at abhiveerhome@gmail.com.
+- 😄 Pronouns: Abhiveer.
+- ⚡ Fun fact: As an 11th grader, I struggle to explain the tech I work on to my mom.
