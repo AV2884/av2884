@@ -9,6 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I'm learning C++ and Rust.
 - 👯 I'm eager to collaborate on zero-knowledge proofs and explore using the CUDA framework to build ZKP proofs.
 - 🤔 I'm seeking assistance in building a simple R1CS and zkSnarks from scratch.
+- 🥷 I'm also working on a few stealth projects related to HF trades
 - 💬 Feel free to ask me about ZKPs and blockchain.
 - 📫 You can reach me at abhiveerhome@gmail.com.
 - 😄 Pronouns: Abhiveer.
