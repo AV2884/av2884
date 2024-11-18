@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I'm currently focused on working with KZG Polynomial Commitment and Verification using the Power Of Tau.
 - 🌱 I'm learning C++ and Rust.
-- 🌱🌱 I'm creating GPT 1.0 from Scratch
+- 🔨 I'm building neural networks from scratch with only numpy and python
 - 🍄 Reading "The Man Who Solved the Market"
 - 🛩️ I'm eager to collaborate on zero-knowledge proofs and explore using the CUDA framework to build ZKP proofs.
 - 🤔 I'm seeking assistance in building a simple R1CS and zkSnarks from scratch.
