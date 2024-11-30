@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 🍄 Reading "The Man Who Solved the Market"
 - 🛩️ I'm eager to collaborate on zero-knowledge proofs and explore using the CUDA framework to build ZKP proofs.
 - 🤔 I'm seeking assistance in building a simple R1CS and zkSnarks from scratch.
-- 🐸 I'm building telegram app with AI/ML for chat2earn
+- 🐸 I'm building telegram app with AI/ML for chat2earn.
 - 🥷 I'm also working on a few stealth projects related to HF trades
 - 💬 Feel free to ask me about ZKPs and blockchain.
 - 📫 You can reach me at abhiveerhome@gmail.com.
