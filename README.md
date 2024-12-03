@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 - 🐸 I'm building telegram app with AI/ML for chat2earn.
 - 🥷 I'm also working on a few stealth projects related to HF trades
 - 💬 Feel free to ask me about ZKPs and blockchain.
-- 📫 You can reach me at abhiveerhome@gmail.com.
+- 📫 You can reach me at abhiveerhome@gmail.com
 - 😄 Pronouns: Abhi
 - ⚡ Fun fact: As an 11th grader, I struggle to explain the tech I work on to my mom.
 - 💡 [Articles](https://medium.com/@abhiveerhome)
