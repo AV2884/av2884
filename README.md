@@ -16,6 +16,6 @@ Here are some ideas to get you started: -->
 - 💬 Feel free to ask me about ZKPs and blockchain.
 - 📫 You can reach me at abhiveerhome@gmail.com
 - 😄 Pronouns: Abhi
-- ⚡ Fun fact: As an 11th grader, I struggle to explain the tech I work on to my mom.
+- ⚡ Fun fact: As an 12th grader, I struggle to explain the tech I work on to my mom.
 - 💡 [Articles](https://medium.com/@abhiveerhome)
 - 🏄‍♂️ [Linkedin](https://www.linkedin.com/in/abhiveerhome/)
