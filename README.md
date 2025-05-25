@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🛜 Currently building agentic AI systems using LLM ensembles (GPT, Claude, Mistral) + Reinforcement Learning
+- 🛜 Currently building agentic AI systems using LLM ensembles (GPT, Claude, Mistral) + Reinforcement Learning (RL)
 - 🧠 Experimenting with habit-based vector memory and Transformers for real-time stock prediction
 - 🔭 I'm currently focused on working with KZG Polynomial Commitment and Verification using the Power Of Tau.
 - 🌱 I'm learning C++ and Rust.
